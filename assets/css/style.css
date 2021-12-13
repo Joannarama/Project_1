@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=verdana :wght@200&family=Quicksand:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap');
 
 * {
     margin: 0;
@@ -6,6 +6,11 @@
     border: none;
 }
 body {
-    font-family: quicksand, san-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 200;
+}
+
+nav ul li a {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300;
 }
