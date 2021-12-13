@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=verdana :wght@200&family=Quicksand:wght@300;400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: quicksand, san-serif;
+    font-weight: 200;
 }
