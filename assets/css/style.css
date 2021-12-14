@@ -86,6 +86,26 @@ nav {
     text-align: center;
 }
 
+footer {
+    background-color: #022230;
+}
+
+.start-project-bg {
+    background: no-repeat left top / cover url("/assets/images/footer-bg-image@2x.webp");
+   
+}
+
+.start-project-bg h2 {
+
+}
+
+.start-project-bg h3 {
+    
+}
+
+.start-project-bg .pill-button {
+    
+}
 @media (min-width: 800px) {
     .logo-nav {
         display: flex;
@@ -107,6 +127,8 @@ nav {
         width: 180px;
     }
 }
+
+
 
 @media (min-width: 1140px) {
     .container {
