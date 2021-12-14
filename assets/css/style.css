@@ -5,12 +5,53 @@
     padding: 0;
     border: none;
 }
+
 body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Quicksand', sans-serif;
     font-weight: 200;
+}
+
+.home-header {
+    background: no-repeat left top / cover url("/assets/images/new-banner-header@2x.jpg");
+    height: 400px;
+    padding: 30px 20px;
+}
+
+.logo {
+    height: auto;
+    width: 230px;
+}
+
+#menu {
+    font-size: 20px;
+}
+
+#menu li {
+    float: right;
+}
+
+#menu a {
+    text-decoration: none;
+    font-family: 'Quicksand';
+    font-size: 20px;
+    font-weight: bold;
+    color: #fbfcfd;
+
 }
 
 nav ul li a {
     font-family: 'Quicksand', sans-serif;
     font-weight: 300;
+}
+
+@media (min-width: 800px) {
+    .logo {
+        width: 180px;
+    }
+}
+
+@media (min-width: 1140px) {
+    .logo {
+        width: 320px;
+    }
 }
