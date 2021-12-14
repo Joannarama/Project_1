@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400,600&display=swap');
 
 * {
     margin: 0;
@@ -8,50 +8,126 @@
 
 body {
     font-family: 'Quicksand', sans-serif;
-    font-weight: 200;
+    font-weight: 300;
 }
 
 .home-header {
     background: no-repeat left top / cover url("/assets/images/new-banner-header@2x.jpg");
-    height: 400px;
+    height: 450px;
     padding: 30px 20px;
 }
 
 .logo {
     height: auto;
-    width: 230px;
+    width: 200px;
+    padding: 10px;
+}
+
+nav {
+    margin-top: 10px;
 }
 
 #menu {
-    font-size: 20px;
+    padding: 5px;
+    list-style: none;
 }
 
 #menu li {
-    float: right;
+    float: left;
+    margin-right: 30px;
 }
 
 #menu a {
     text-decoration: none;
-    font-family: 'Quicksand';
-    font-size: 20px;
-    font-weight: bold;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
     color: #fbfcfd;
 
 }
 
-nav ul li a {
+#menu a.selected {
+    color: #df4739;
+}
+
+#menu a:hover {
+    color: #df4739;
+}
+
+#header-text {
+    padding: 50px 0px;
+}
+#header-text h4{
     font-family: 'Quicksand', sans-serif;
-    font-weight: 300;
+    color: #df4739;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#header-text h2 {
+    font-family: 'Quicksand', sans-serif;
+    color: #fbfcfd;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 42px;
+}
+
+.pill-button {
+    text-decoration: none;
+    margin-top: 36px;
+    padding: 7px 15px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    background: #022230;
+    color: #fbfcfd;
+    border-radius: 10px;
+    display: inline-block;
+    text-align: center;
 }
 
 @media (min-width: 800px) {
+    .logo-nav {
+        display: flex;
+        align-items: center;
+    }
+    #menu {
+        list-style: none;
+    }
+    nav{
+        margin-top: 0;
+        flex-grow: 1;
+        display: flex;
+        justify-content: end;
+    }
+    #header-text {
+        width: 300px;
+    }
     .logo {
         width: 180px;
     }
 }
 
 @media (min-width: 1140px) {
+    .container {
+        max-width: 1060px;
+        margin: 0 auto;
+    }
     .logo {
-        width: 320px;
+        width: 217px;
+    }
+    #menu a {
+        font-size: 20px;
+    }
+    .home-header{
+        height: 783px;
+    }
+    #header-text {
+        width: 480px;
+        margin-top: 115px;
+    }
+    #header-text h2 {
+        font-size: 48px;
+        line-height: 52px;
     }
 }
