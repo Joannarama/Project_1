@@ -12,7 +12,7 @@ body {
 }
 
 .home-header {
-    background: no-repeat left top / cover url("/assets/images/new-banner-header@2x.jpg");
+    background: no-repeat left top / cover url("../images/new-banner-header@2x.jpg");
     height: 450px;
     padding: 30px 20px;
 }
@@ -86,12 +86,45 @@ nav {
     text-align: center;
 }
 
+/* award banner */
+
+.award-banner {
+    display: flex;
+    text-decoration: none;
+    padding: 7px 15px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    width: 80%;
+    margin: 36px auto 0;
+    height: 100px;
+    border:none;
+    box-shadow: 2.1px 9.8px 8.6px 0.5px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+
+ .navy  {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #022230;
+}
+
+.orange {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #df4739;
+}
+
 footer {
     background-color: #022230;
 }
 
 .start-project-bg {
-    background: no-repeat center bottom / cover url("/assets/images/footer-bg-image@2x.webp");
+    background: no-repeat center bottom / cover url("../images/footer-bg-image@2x.webp");
     height: 300px;
     padding: 40px 20px;
     display: flex;
