@@ -57,7 +57,8 @@ nav {
 #header-text {
     padding: 50px 0px;
 }
-#header-text h4{
+
+#header-text h4 {
     font-family: 'Quicksand', sans-serif;
     color: #df4739;
     font-size: 20px;
@@ -90,25 +91,29 @@ nav {
 
 .award-banner {
     display: flex;
-    text-decoration: none;
-    padding: 7px 15px;
+    flex-direction: column-reverse;
+    padding: 10px 15px 25px;
     font-family: 'Quicksand', sans-serif;
     font-size: 16px;
     font-weight: 400;
     text-align: center;
     width: 80%;
-    margin: 36px auto 0;
+    margin: 31px auto 30px;
     height: 100px;
-    border:none;
-    box-shadow: 2.1px 9.8px 8.6px 0.5px rgba(0, 0, 0, 0.25);
+    border: none;
+    box-shadow: 2px 10px 9px 1px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
 }
 
+.award-banner-text {
+    margin-top: 20px;
+}
 
- .navy  {
+
+.navy {
     font-family: 'Quicksand', sans-serif;
-    font-size: 20px;
-    font-weight: 400;
+    font-size: 16px;
+    font-weight: 600;
     color: #022230;
 }
 
@@ -117,6 +122,14 @@ nav {
     font-size: 20px;
     font-weight: 400;
     color: #df4739;
+}
+
+.badge {
+    height: 110px;
+    width: 120px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 footer {
@@ -168,34 +181,40 @@ footer {
     text-align: center;
     width: 100px;
 }
+
 @media (min-width: 800px) {
     .logo-nav {
         display: flex;
         align-items: center;
     }
+
     #menu {
         list-style: none;
     }
-    nav{
+
+    nav {
         margin-top: 0;
         flex-grow: 1;
         display: flex;
         justify-content: end;
     }
+
     #header-text {
         width: 300px;
     }
+
     .logo {
         width: 180px;
     }
 
     .start-project-bg {
-        height: 459px; 
+        height: 459px;
         padding: 0 0 40px 0;
     }
+
     .start-project-bg h3 {
         max-width: 500px;
-        margin: 0 auto;   
+        margin: 0 auto;
     }
 
 }
@@ -207,19 +226,24 @@ footer {
         max-width: 1060px;
         margin: 0 auto;
     }
+
     .logo {
         width: 217px;
     }
+
     #menu a {
         font-size: 20px;
     }
-    .home-header{
+
+    .home-header {
         height: 783px;
     }
+
     #header-text {
         width: 480px;
         margin-top: 115px;
     }
+
     #header-text h2 {
         font-size: 48px;
         line-height: 52px;
