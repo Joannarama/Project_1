@@ -208,27 +208,34 @@ nav {
 
 .our-process-grid {
     display: grid;
-    grid-template-columns: 1fr;
-    row-gap: 20px;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin: 0 20px;
+    padding-bottom: 20px;
 }
 
 .our-process-grid span h3 {
     font-family: Quicksand;
-    font-size: 24px;
+    font-size: 14px;
     font-weight: 600;
     letter-spacing: 1.5px;
     text-align: center;
     color: #022230;
+    margin-top: 15px;
+    line-height: 14px;
 }
 
 .our-process-grid span img {
-    width: 100%;
-    width: 180px;
-    height: 180px;
+    width: 98px;
+    height: 98px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
+
+
+
+
 
 /* .kmfromhome {
     margin-top: 50px;
