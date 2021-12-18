@@ -450,6 +450,35 @@ footer {
     padding: 20px;
 }
 
+.content-management h2 {
+    font-family: 'Quicksand', sans-serif;
+    color: #df4739;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 25px;
+    margin-bottom: 5px;
+    letter-spacing: 1.5px;
+}
+.content-management p {
+    font-family: 'Quicksand', san-serif;
+    color: #02212f;
+    font-size: 15px;
+    font-weight: 600;
+    padding-bottom: 30px;
+}
+
+.content-management-image {
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+.content-management {
+    display: flex;
+    flex-direction: column-reverse;
+    padding: 20px;
+}
+
+
 
 
 @media (min-width: 1140px) {
