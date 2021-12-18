@@ -45,6 +45,9 @@ nav {
     color: #fbfcfd;
 
 }
+.services-page #menu a {
+    color:#022230;
+}
 
 #menu a.selected {
     color: #df4739;
@@ -374,6 +377,71 @@ footer {
         margin: 0 auto;
     }
 
+}
+
+.services-header-text h4 {
+    margin-top: 20px;
+    font-family: 'Quicksand', sans-serif;
+    color: #02212f;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.services-header-text h1 {
+    font-family: 'Quicksand', sans-serif;
+    color: #df4739;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 25px;
+    margin-bottom: 20px;
+    letter-spacing: 1.5px;
+}
+
+.services-statement {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    color: #df4739;
+    font-size: 20px;
+    text-align: center;
+    margin: 10px 50px 10px 50px;
+}
+
+.services-header-image {
+    width: 100%;
+}
+
+.services-header {
+    display: flex;
+    flex-direction: column-reverse;
+    padding: 20px;
+}
+
+
+.bespoke-business-applications h2 {
+    font-family: 'Quicksand', sans-serif;
+    color: #df4739;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 25px;
+    margin-bottom: 20px;
+    letter-spacing: 1.5px;
+}
+.bespoke-business-applications p {
+    font-family: 'Quicksand', san-serif;
+    color: #02212f;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.bespoke-applications-image {
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+.bespoke-business-applications {
+    display: flex;
+    flex-direction: column-reverse;
+    padding: 20px;
 }
 
 
