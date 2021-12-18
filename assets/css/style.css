@@ -49,6 +49,11 @@ nav {
     color:#022230;
 }
 
+.services-page #menu li{
+    float: left;
+    margin-right: 30px;
+}
+
 #menu a.selected {
     color: #df4739;
 }
@@ -423,7 +428,7 @@ footer {
     font-size: 20px;
     font-weight: 600;
     line-height: 25px;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     letter-spacing: 1.5px;
 }
 .bespoke-business-applications p {
@@ -431,6 +436,7 @@ footer {
     color: #02212f;
     font-size: 15px;
     font-weight: 600;
+    padding-bottom: 30px;
 }
 
 .bespoke-applications-image {
