@@ -297,6 +297,8 @@ nav {
     text-align: center;
     margin-top: 5px;
 }
+
+/* footer */
 footer {
     background-color: #022230;
 }
@@ -345,6 +347,35 @@ footer {
     display: inline-block;
     text-align: center;
     width: 100px;
+}
+
+.contact h3 {
+    color: #df4739;
+    font-family: Quicksand;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.contact h4 {
+    color: #fbfcfd;
+    font-family: Quicksand;
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.social-media {
+    background-color: #df4739;
+    border-radius: 50%;
+    height: 32px;
+    width: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social img {
+    height: 15px;
+    width: 15px;
 }
 
 @media (min-width: 800px) {
