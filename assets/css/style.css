@@ -378,42 +378,7 @@ footer {
     width: 15px;
 }
 
-@media (min-width: 800px) {
-    .logo-nav {
-        display: flex;
-        align-items: center;
-    }
 
-    #menu {
-        list-style: none;
-    }
-
-    nav {
-        margin-top: 0;
-        flex-grow: 1;
-        display: flex;
-        justify-content: end;
-    }
-
-    #header-text {
-        width: 300px;
-    }
-
-    .logo {
-        width: 180px;
-    }
-
-    .start-project-bg {
-        height: 459px;
-        padding: 0 0 40px 0;
-    }
-
-    .start-project-bg h3 {
-        max-width: 500px;
-        margin: 0 auto;
-    }
-
-}
 
 .services-header-text h4 {
     margin-top: 20px;
@@ -539,6 +504,137 @@ footer {
     border-left: 6px solid #df4739;
 }
 
+
+/* contact us page */
+.contact-header {
+    background: no-repeat left top / cover url("../images/contact-header.png");
+    padding: 30px 20px;
+}
+
+#contact-header-text h4 {
+    color: #df4739;
+}
+
+#contact-header-text h2 {
+    color:#fbfcfd
+}
+
+#contact-header-text {
+    padding: 50px 0;
+}
+
+.contact-us-form-container {
+    background-color: #fbfcfd;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.contact-us-form-container {
+    display: flex;
+    flex-direction: column-reverse;
+    /* padding: 20px; */
+}
+
+.form-group {
+    margin-bottom: 20px;
+
+}
+
+label {
+    display: block;
+    color: #022230;
+    font-family: "Quicksand", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 8px;
+}
+
+input[type=text],
+input[type=email] {
+    border: 1px solid #022230;
+    border-radius: 5px;
+    width: 100%;
+    padding: 8px 17px;
+    box-sizing: border-box;
+    font-family: "Quicksand", sans-serif;
+    font-size: 16px;
+}
+
+input[type=checkbox] {
+
+}
+
+input[type=submit] {
+    background: #022230;
+    color: #df4739;
+    padding: 10px 20px;
+    font-family: "Quicksand", sans-serif;
+    font-size: 16px;
+    text-align:center;
+    display:block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+
+
+/* find us here */
+
+.find-us-here h2 {
+    font-family: 'Quicksand', sans-serif;
+    color: #df4739;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 25px;
+    margin-bottom: 20px;
+    letter-spacing: 1.5px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+@media (min-width: 800px) {
+    .logo-nav {
+        display: flex;
+        align-items: center;
+    }
+
+    #menu {
+        list-style: none;
+    }
+
+    nav {
+        margin-top: 0;
+        flex-grow: 1;
+        display: flex;
+        justify-content: end;
+    }
+
+    #header-text {
+        width: 300px;
+    }
+
+    .logo {
+        width: 180px;
+    }
+
+    .start-project-bg {
+        height: 459px;
+        padding: 0 0 40px 0;
+    }
+
+    .start-project-bg h3 {
+        max-width: 500px;
+        margin: 0 auto;
+    }
+
+}
 
 @media (min-width: 1140px) {
     .container {
