@@ -356,11 +356,26 @@ footer {
     font-weight: 600;
 }
 
-.contact h4 {
+.contact h4, 
+.contact h4 a {
     color: #fbfcfd;
     font-family: Quicksand;
-    font-size: 12px;
+    font-size: 15px;
     font-weight: 300;
+    margin-bottom: 5px;
+    /* text-decoration: none; */
+}
+
+.sub-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 20px 40px;
+}
+
+.social {
+    display: flex;
+    gap: 10px;
 }
 
 .social-media {
