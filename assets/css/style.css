@@ -507,7 +507,7 @@ footer {
 
 /* contact us page */
 .contact-header {
-    background: no-repeat left top / cover url("../images/contact-header.png");
+    background: no-repeat left top / cover url("../images/contact-header.jpg");
     padding: 30px 20px;
 }
 
@@ -566,7 +566,7 @@ input[type=checkbox] {
 
 input[type=submit] {
     background: #022230;
-    color: #df4739;
+    color:rgb(255, 255, 255);
     padding: 10px 20px;
     font-family: "Quicksand", sans-serif;
     font-size: 16px;
