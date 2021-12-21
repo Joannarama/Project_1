@@ -246,11 +246,13 @@ nav {
 
 /* your software partner */
 
-.software-partner {
+.why-choose-us {
     display: flex;
     flex-direction: column-reverse;
     padding: 20px;
 }
+
+
 
 .why-choose-us h4 {
     font-family: 'Quicksand', sans-serif;
@@ -730,6 +732,17 @@ input[type=submit] {
         margin-top: 20px;
     }
 
+    .why-devhaus {
+        margin-top: 30px;
+    }
+
+    .why-choose-us {
+        flex-direction: row;
+        padding: 30px;
+        justify-content: space-between;
+        align-items:center;
+    }
+
     .why-choose-us h4 {
         font-size: 18px;
     }
@@ -739,7 +752,9 @@ input[type=submit] {
     }
 
     .why-choose-us p {
-        font-size: 18px;
+        font-size: 15px;
+        width: 376px;
+        
     }
 
     .projects h2 {
@@ -842,12 +857,54 @@ input[type=submit] {
 
     .km-from-home p {
         font-size: 20px;
+        width: 500px;
     }
 
     .award-map {
         max-width: 450px;
 }
+    .our-process h2 {
+        margin-bottom: 40px;
+    }
+
+    .our-process-grid {
+        padding-bottom:80px;
+    }
+
+    .our-process-grid span img {
+        width: 150px;
+        height: 150px;
+    }
+
+    .our-process-grid span h3 {
+        font-size: 24px;
+    }
+
+    .why-choose-us h4 {
+        font-size: 20px;
+    }
+
+    .why-choose-us h2 {
+        font-size: 30px
+    }
+
+    .why-choose-us p {
+        font-size: 20px;
+        width: 500px;
+    }
+    .partner-image {
+        max-width: 450px;
+    }
+
+    .partner-image img {
+        width:100%;
+        height: auto;
+    }
 
 
+    .contact-page .start-project-bg,
+    .services-page .start-project-bg {
+        height: 250px;
+    }
 }
 
