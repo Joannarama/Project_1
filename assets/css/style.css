@@ -224,7 +224,7 @@ nav {
     padding-bottom: 20px;
 }
 
-.our-process-grid span h3 {
+.our-process-grid div h3 {
     font-family: Quicksand;
     font-size: 14px;
     font-weight: 600;
@@ -235,7 +235,7 @@ nav {
     line-height: 14px;
 }
 
-.our-process-grid span img {
+.our-process-grid div img {
     width: 98px;
     height: 98px;
     display: block;
@@ -1020,12 +1020,12 @@ input[type=submit] {
         padding-bottom:80px;
     }
 
-    .our-process-grid span img {
+    .our-process-grid div img {
         width: 150px;
         height: 150px;
     }
 
-    .our-process-grid span h3 {
+    .our-process-grid div h3 {
         font-size: 24px;
     }
 
