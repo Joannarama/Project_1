@@ -58,47 +58,31 @@ The website is clear and easy to read and the flow of information is logical. Ca
 ## User Experience
 
 ### Target Audience
-- People looking to adopt an animal.
-- People looking to attend a fundraising event
+The target audience are individuals who want to have software built usually to support their current business processes. They may visit the site via links on a search engine results page, through advertising, social media or from a back link on some online press coverage. They may be at the early idea stage or have more particular requirements already thought out, the website will assure the user that whatever point they're at in their journey, we're here to support them. 
 
 ### User Requrements and Expectations
 
-- A simple and intuitive navigation system
-- Quickly and easily find relevant information
-- Links and functions that work as expected
-- Good presentation and a visually appealing design regardless of screen size
-- An easy way to contact the animal shelter
-- Simple content that the user can skim read
+A clear, informative and easy to navigate interface
+- Links and functionality that work as they would expect
+- An easy-to-find means of contacting the company
 - Accessibility
 
-### User Stories
 
-#### First-time User 
-1. As a first time user, I want to know where the animal shelter is located
-2. As a first time user, I want to know the animals available for adoption
-3. As a first time user, I want to know more about the animal shelter
-4. As a first time user, I want to know about any fundraising activities
-5. As a first time user, I want to be able to contact the animal shelter
-
-#### Returning User
-6. As a returning user, I want to know which animals are available for adoption
-7. As a returning user, I want to know about any fundraising activities
-8. As a returning user, I want to be able to contact the animal shelter
-
-#### Site Owner 
-9. As the site owner, I want users to find information about upcoming fundraising activities.
-10. As the site owner, I want users to find information about available animals ready for adoption.
-11. As the site owner, I want users to get to know the animal shelter. 
-12. As the site owner, I want the users to be able to contact us.
-13. As the site owner, I want users to be able to see where we are located.
 
 ## Design
+The current Devhaus website was built a number of years ago and the company has evolved from this point to the stage where the website is not in line with the current ethos and offerings of the company. 
+
+Working with a Co. Wexford based designer in 2021, a new design was conceived to bring the site up to date and convey a sense of modernity and professionalisim in line with the company's current capabitities. 
 
 ### Design Choices
 
-The webpage was designed with the feeling a customer might get while dining at the restaurant. It is calm, warm and inviting. Some of the imagery on the page has a round shape with a border to resemble food served on a plate.
+The website design is a justaposition of strong accent colours with bold graphics based on the Devhaus branding and the use of white space which gives structure and clarity ensuring the content is easy to navigate, read and access. 
    
+The calls to action stand out and attract the eye, encouraging the user to make a particular user journey to the contact us page. 
+
 ### Colour Scheme
+
+
 - Create a modern colour scheme with soft tones
 - Primary background of the website will be white, so this would need to form part of the palette.
 - The goal is to choose gender-neutral colours.
