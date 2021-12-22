@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap');
 
 * {
     margin: 0;
@@ -225,7 +225,7 @@ nav {
 }
 
 .our-process-grid div h3 {
-    font-family: Quicksand;
+    font-family: 'Quicksand', sans-serif;
     font-size: 14px;
     font-weight: 600;
     letter-spacing: 1.5px;
@@ -372,7 +372,7 @@ footer {
 
 .contact h3 {
     color: #df4739;
-    font-family: Quicksand;
+    font-family: 'Quicksand', sans-serif;
     font-size: 16px;
     font-weight: 600;
 }
@@ -380,7 +380,7 @@ footer {
 .contact h4, 
 .contact h4 a {
     color: #fbfcfd;
-    font-family: Quicksand;
+    font-family: 'Quicksand', sans-serif;
     font-size: 15px;
     font-weight: 300;
     margin-bottom: 5px;
@@ -660,7 +660,7 @@ input[type=submit] {
 }
 
 .location h3 {
-  font-family: Quicksand;
+  font-family: 'Quicksand', sans-serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.5;
@@ -670,15 +670,35 @@ input[type=submit] {
   margin-bottom: 20px;
 }
 
+@media (max-width: 374px) {
+    .services-page #menu li,
+    #menu li {
+        margin-right: 20px;
+    }
+
+    
+    #menu a {
+        font-size: 16px;
+    }
+
+    .sub-footer {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 30px;
+    }
+    
+    .award-banner {
+        height: 120px;
+    }
+
+    .our-process-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
 
 
 
-
-
-
-
-
-@media (min-width: 800px) {
+@media (min-width: 768px) {
     .logo-nav {
         display: flex;
         align-items: center;
