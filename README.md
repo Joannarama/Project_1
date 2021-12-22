@@ -76,7 +76,7 @@ Working with a Co. Wexford based designer in 2021, a new design was conceived to
 
 ### Design Choices
 
-The website design is a justaposition of strong accent colours with bold graphics based on the Devhaus branding and the use of white space which gives structure and clarity ensuring the content is easy to navigate, read and access. 
+The website design is a juxtaposition of strong accent colours with bold graphics based on the Devhaus branding and the use of white space which gives structure and clarity ensuring the content is easy to navigate, read and access. 
    
 The calls to action stand out and attract the eye, encouraging the user to make a particular user journey to the contact us page. 
 
@@ -92,7 +92,7 @@ The color scheme is based around the orange devhaus branding and accented by a m
 
 The striking colours and graphics grab the users attention, creating an edgy, modern yet slick and professional feel. 
 
-A light blue gradient background is used in two sections to further define particular areas of the websie, these are the 'our Process' section and the 'Find us here' section of the Contact Us page. 
+A light blue gradient background is used in two sections to further define particular areas of the website, these are the 'our Process' section and the 'Find us here' section of the Contact Us page. 
 
 The gradient is subtle and it is used as a visual cue to define these particular areas without distracting the user from the content. 
 
@@ -102,25 +102,25 @@ The gradient is subtle and it is used as a visual cue to define these particular
 
 ### Images 
 
-The image on the Contact Us page shows the location of Devhaus' physical office in Gorey, Co. Wexford and is owned by the developer. 
+The image on the Contact Us page shows the location of Devhaus' physical office in Gorey, Co. Wexford and this image is owned by the developer. 
 
 <!-- insert image of Gorey Main Street -->
 
 ### Structure
 
-The structure of the website pages are intuitive and familiar which is user friendly and easily navigable. 
+The structure of the website pages are intuitive and familiar and is user friendly and easily navigable. 
 
 On the landing page, the user immediately sees the naviagtion bar and it is clear to see how the site can be used. 
     
 The website consists of three separate pages: 
-- A homepage with relevant company information, a high level explanation of our process, examples of completed work and calls to action to make an enquiry/contact the team. 
-- A Services page outlining the various software development and support offered.
+- A homepage with relevant company information, a high level explanation of our process, links to examples of completed work and calls to action to make an enquiry/contact the team. 
+- A Services page outlining the various software development services and support offered.
 - A contact page with a contact form, email and postal address and a contact phone number. 
 
 ## Wireframes
-I based the design of this website on a wireframe PDF supplied by the designer. 
+I based the design of this website on a wireframe PSD supplied by the designer. 
 
-For the purposes of this project, the design has not been fully implemented, rather I have taken what I required from it to meet the criteria of this project for the Code Institute purposes and what I felt was approriate for the HTML/CSS basics module. 
+For the purposes of this project, the design has not been fully implemented, rather I have taken what I required from it to meet the criteria of this project for the Code Institute purposes and what I felt would demonstrate my competency for the HTML/CSS basics module. 
 
 <!-- add in carolines designs here.  -->
 
@@ -149,65 +149,60 @@ It overlays the header image and has two design types. On the homepage and Conta
 
 On the services page, the header image is white and the links are navy. 
 
-In both cases, the page the user is currently navigating will be orange in the menu nav bar. 
+In both cases, the page the user is currently navigating will be highlighted orange in the menu nav bar. 
 
 
 <!-- insert image of nav bar -->
 
 ### Footer
-The design of the footer is consistent across all pages and comprises to areas:
-- The primary area of real estate which contains a striking, neon lights style image and a call to action button encouraging the user to get in contact with Devhaus to discuss their potential software projects and ideas.
-- The sub footer with contact email (clickable), Phone number (clickable), office location address as well as links to social media, Facebook, Twiter and Linkedin. 
+The design of the footer is consistent across all pages and comprises two areas:
+- The primary area of real estate which contains a striking, 'neon lights' style image and a call to action button encouraging the user to get in contact with Devhaus to discuss their potential software projects and ideas.
+- The sub footer with contact email (clickable), Phone number (clickable), office location address as well as links to social media, i.e. Facebook, Twiter and Linkedin. 
 
 
 <!-- insert footer images -->
 
 ### Homepage
-The user landing page creates an immediate imact with a striking header graphic image and a clear, precise statement which delivers the message of what Devhaus does quickly. 
+The landing page creates an immediate impact with a striking header graphic image and a clear, precise statement which delivers the message of what Devhaus does quickly. 
 
 <!-- insert header image here -->
 
 The aim of the homepage overall is to build confidence in the user that Devhaus are a professional, skilled and diverse team of software developers, encompassing the user's full journey from idea inception and launch - and everything in between. 
 
 In combination with the striking graphics and colour scheme, the content delivers clear and helpful information. 
-- The homepage shows a hero image and striking text to give an impactful first impression to the site
+
+An 'Awards' banner has been included in the design, showcasing a project which was the overall winner of the PProject Management Institute Awards in 2021. This again inspires confidence in the user that they are dealing with a professional, reputable company.
+
+<!-- awards banner image -->
 
 ![hero-text](docs/features/feature-hero-description.jpg)
 
-### About Us
-- Gives a description of the animal shelter and its purpose with images of animals
-- Video to show volunteers
-- The page is fully responsive and changes layout on smaller screens
-- User stories covered: 3, 11
+### Services page
+
+The Services page is a cleanly designed page combining graphic images and text on a white background creating an easy to read program of services offered by Devhaus. 
+
+The header text statement sums up our mission: *Custom software solutions to streamline your business operations*
+
+The subsequent paragraphs outline the software services available to potential clients. 
+
+The Technology Stack section describes the specialised range of technologies used by our team to create custom software. 
+
+<!-- screenshots of the technology page -->
 
 ![About Us](docs/features/feature-about-us.jpg)
 
-### Our Animals
+### Contact us
+The contact page is engaging with a vivid background header image and a clear, easy to read form to contact the company.
+
+This page contains further useful contact information including the physical office location, contact email address, support email address for current clients and a contact phone number. 
+
+This section also includes social media links to Facebook Twitter and Linkedin. 
 - Features all currently available animals for adoption with image, name and age
 - Features a page navigation at the top for cats and dogs. This will be best utilised for the user when there is a large number of animals available
 - The page is fully responsive and changes layout on smaller screens
 - User stories covered: 2, 6, 10
 
-![Reviews](docs/features/feature-animals.jpg)
-
-### Fundraising
-- Features a list of all upcoming fundraising activies including month, event name, full date and description
-- The page is fully responsive and changes layout on smaller screens
-- User stories covered: 4, 7, 9
-
-### Contact Form
-- A way for users to enquire about animals
-- User stories covered: 5, 8, 12
-
-![Contact Form](docs/features/feature-contact-form.jpg)
-
-### Map and address
-- Shows the Animal Shelter's address
-- Shows the Animal Shelter's location on an embeded Google Map
-- Fully responsive and changes layout on smaller screens
-- User stories covered: 1, 8, 13
-
-![Map](docs/features/feature-address-map.jpg)
+<!-- screenshots of the contact us page.  -->
 
 ## Development 
 
@@ -285,29 +280,6 @@ To complete this action I completed the following process:
 https://validator.w3.org/ was used to validate HTML.
 
 #### index.html
-
-<details><summary>Picture</summary>
-<img src="docs/validation/index.png">
-</details><br>
-
-#### about.html
-
-<details><summary>Picture</summary>
-<img src="docs/validation/about.png">
-</details><br>
-
-
-
-### Fonts
-
-The font used for the website is Quicksand. 
-
-It is a very ledgible san serif font with rounded terminals and it is based on geometric shapes. As such, it compliments the modern and edgy look and feel of the design created for the website. 
-
-- Source: https://fonts.google.com/specimen/Quicksand
-
-
-## index.html
 **Error:** Statement h3 not allowed as child of element span in this context. (Suppressing further errors from this subtree.)
 **Solution:** Change span to div.
 
@@ -333,4 +305,11 @@ No errors
 ## CSS
 1 Error found:
 File not found: https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400,600&display=swap: Bad Request
-I am using the suggest @import approach and this is breaking the validation. I do not know how to fix.
+solution: I identified an error in the @import code which when corrected, imported the google font 'Quicksand' correctly
+
+
+
+
+
+
+
