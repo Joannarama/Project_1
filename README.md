@@ -45,6 +45,7 @@
 
 ## Project Goals
 
+<!-- viewports.jpg-->
 ### User Goals
 The aim of this webiste is to provide the user with information about the software development company, Devhaus, that is clear and easy to access. The user will learn about the company's location, capabilities and service offering. They will be able to review projects that have been developed by Devhaus by clicking on the relevant links on the home page. 
 
@@ -58,7 +59,7 @@ The website is clear and easy to read and the flow of information is logical. Ca
 ## User Experience
 
 ### Target Audience
-The target audience are individuals who want to have software built usually to support their current business processes. They may visit the site via links on a search engine results page, through advertising, social media or from a back link on some online press coverage. They may be at the early idea stage or have more particular requirements already thought out, the website will assure the user that whatever point they're at in their journey, we're here to support them. 
+The target audience are individuals who want to have software built usually to support or improve their current business processes. They may visit the site via links on a search engine results page, through advertising, social media or from a back link on some online press coverage. They may be at the early idea stage or have more particular requirements already thought out, the website will assure the user that whatever point they're at in their journey, we're here to support them. 
 
 ### User Requrements and Expectations
 
@@ -76,17 +77,12 @@ Working with a Co. Wexford based designer in 2021, a new design was conceived to
 
 ### Design Choices
 
+<!-- ![color scheme](readme-color-white-space.PNG)  -->
+# Dynamic color scheme juxtaposed with white space for clarity
+
 The website design is a juxtaposition of strong accent colours with bold graphics based on the Devhaus branding and the use of white space which gives structure and clarity ensuring the content is easy to navigate, read and access. 
    
 The calls to action stand out and attract the eye, encouraging the user to make a particular user journey to the contact us page. 
-
-# Dynamic color scheme juxtaposed with white space for clarity
-
-# Happy Christmas!
-
-<!-- ![color scheme](readme-color-white-space.PNG)  -->
-
-### Colour Scheme
 
 The color scheme is based around the orange devhaus branding and accented by a midnight blue. This creates the basis of the striking graphic imagery created by the designer for the site. White text is easily readable over these colours. 
 
@@ -104,7 +100,7 @@ The gradient is subtle and it is used as a visual cue to define these particular
 
 The image on the Contact Us page shows the location of Devhaus' physical office in Gorey, Co. Wexford and this image is owned by the developer. 
 
-<!-- insert image of Gorey Main Street -->
+<!-- insert image of Gorey-Main-Street -->
 
 ### Structure
 
@@ -145,14 +141,15 @@ The three individual pages contain the following features:
 
 The navigation menu bar appears consistently across the three pages and includes the Home, Services and Contact Us links.
 
+<!-- <!nav-bar- dark--  --> -->
 It overlays the header image and has two design types. On the homepage and Contact Us page the font colour for the links are white as the header images on these pages are dark blue/navy. 
 
+<!-- nav-bar-light -->
 On the services page, the header image is white and the links are navy. 
 
 In both cases, the page the user is currently navigating will be highlighted orange in the menu nav bar. 
 
 
-<!-- insert image of nav bar -->
 
 ### Footer
 The design of the footer is consistent across all pages and comprises two areas:
@@ -160,12 +157,12 @@ The design of the footer is consistent across all pages and comprises two areas:
 - The sub footer with contact email (clickable), Phone number (clickable), office location address as well as links to social media, i.e. Facebook, Twiter and Linkedin. 
 
 
-<!-- insert footer images -->
+<!-- readme-footer-img -->
 
 ### Homepage
 The landing page creates an immediate impact with a striking header graphic image and a clear, precise statement which delivers the message of what Devhaus does quickly. 
 
-<!-- insert header image here -->
+<!-- readme-header-img -->
 
 The aim of the homepage overall is to build confidence in the user that Devhaus are a professional, skilled and diverse team of software developers, encompassing the user's full journey from idea inception and launch - and everything in between. 
 
@@ -173,12 +170,13 @@ In combination with the striking graphics and colour scheme, the content deliver
 
 An 'Awards' banner has been included in the design, showcasing a project which was the overall winner of the PProject Management Institute Awards in 2021. This again inspires confidence in the user that they are dealing with a professional, reputable company.
 
-<!-- awards banner image -->
+<!-- readme-award-img-->
 
 ![hero-text](docs/features/feature-hero-description.jpg)
 
 ### Services page
 
+<!-- readme-services-img -->
 The Services page is a cleanly designed page combining graphic images and text on a white background creating an easy to read program of services offered by Devhaus. 
 
 The header text statement sums up our mission: *Custom software solutions to streamline your business operations*
@@ -187,11 +185,13 @@ The subsequent paragraphs outline the software services available to potential c
 
 The Technology Stack section describes the specialised range of technologies used by our team to create custom software. 
 
-<!-- screenshots of the technology page -->
+<!-- readme-tech-stack -->
 
 ![About Us](docs/features/feature-about-us.jpg)
 
 ### Contact us
+
+<!-- readme-contact-form -->
 The contact page is engaging with a vivid background header image and a clear, easy to read form to contact the company.
 
 This page contains further useful contact information including the physical office location, contact email address, support email address for current clients and a contact phone number. 
@@ -202,7 +202,7 @@ This section also includes social media links to Facebook Twitter and Linkedin.
 - The page is fully responsive and changes layout on smaller screens
 - User stories covered: 2, 6, 10
 
-<!-- screenshots of the contact us page.  -->
+<!-- readme-find-us-here  -->
 
 ## Development 
 
@@ -214,51 +214,27 @@ GitPod was used to write the code.
 
 ### Commits
 
-I kept track of updates by using commits in Git.  The terminal commands for these were:
+Updates were regularly made via commits in Gitpod. 
 
+Terminal Commands
 * git add .
 * git commit -m "Description of change"
 * git push
+* git status 
 
 ### Deployment
 
-The website was deployed to GitHub Pages.
+The following steps were taken to deploy the website to GitHub Pages: 
 
-To complete this action I completed the following process:
+### **To deploy the project**
+The site was deployed to GitHub pages. The steps to deploy a site are as follows:
+  1. In the GitHub repository, navigate to the **Settings** tab.
+  2. Once in Settings, navigate to the **Pages** tab on the left hand side.
+  3. Under **Source**, select the branch to **master**, then click **save**.
+  4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.image
 
-1. Navigated to my site repository
+  <!-- readme-deployment -->
 
-    https://github.com/kkerswell/CI_PP1_AnimalCharity
-
-2. Clicked on "Settings" within the top navigation area
-
-<details><summary>Picture</summary>
-<img src="docs/development/github-deploy-1.png">
-</details><br>
-
-3. Clicked on "Pages" within the side navigation area
-
-<details><summary>Picture</summary>
-<img src="docs/development/github-deploy-2.png">
-</details><br>
-
-4. Clicked the dropdown box under "Source" and choose "main"
-
-<details><summary>Picture</summary>
-<img src="docs/development/github-deploy-3.png">
-</details><br>
-
-5. Clicked on the "Save" button
-
-<details><summary>Picture</summary>
-<img src="docs/development/github-deploy-4.png">
-</details><br>
-
-6. Once saved, the url is then provided
-
-<details><summary>Picture</summary>
-<img src="docs/development/github-deploy-5.png">
-</details><br>
 
 ### Cloning
 
@@ -308,7 +284,7 @@ File not found: https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400,
 solution: I identified an error in the @import code which when corrected, imported the google font 'Quicksand' correctly
 
 
-
+###Teating
 
 
 
