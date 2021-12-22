@@ -80,20 +80,231 @@ The website design is a justaposition of strong accent colours with bold graphic
    
 The calls to action stand out and attract the eye, encouraging the user to make a particular user journey to the contact us page. 
 
+# Dynamic color scheme juxtaposed with white space for clarity
+
+# Happy Christmas!
+
+<!-- ![color scheme](readme-color-white-space.PNG)  -->
+
 ### Colour Scheme
 
+The color scheme is based around the orange devhaus branding and accented by a midnight blue. This creates the basis of the striking graphic imagery created by the designer for the site. White text is easily readable over these colours. 
 
-- Create a modern colour scheme with soft tones
-- Primary background of the website will be white, so this would need to form part of the palette.
-- The goal is to choose gender-neutral colours.
-- Final palette colours that were chosen were #F4F9F4 #C4E3CB #8AAE92 #616161
-- Source: https://colorhunt.co/palette/f4f9f4c4e3cb8aae92616161
-- Following accessibility testing, a fifth color was added which was a darker version of #616161. The new color is #1A1A1A.
+The striking colours and graphics grab the users attention, creating an edgy, modern yet slick and professional feel. 
+
+A light blue gradient background is used in two sections to further define particular areas of the websie, these are the 'our Process' section and the 'Find us here' section of the Contact Us page. 
+
+The gradient is subtle and it is used as a visual cue to define these particular areas without distracting the user from the content. 
+
+
+<!-- - Final palette colours that were chosen were #F4F9F4 #C4E3CB #8AAE92 #616161 -->
+
+
+### Images 
+
+The image on the Contact Us page shows the location of Devhaus' physical office in Gorey, Co. Wexford and is owned by the developer. 
+
+<!-- insert image of Gorey Main Street -->
+
+### Structure
+
+The structure of the website pages are intuitive and familiar which is user friendly and easily navigable. 
+
+On the landing page, the user immediately sees the naviagtion bar and it is clear to see how the site can be used. 
+    
+The website consists of three separate pages: 
+- A homepage with relevant company information, a high level explanation of our process, examples of completed work and calls to action to make an enquiry/contact the team. 
+- A Services page outlining the various software development and support offered.
+- A contact page with a contact form, email and postal address and a contact phone number. 
+
+## Wireframes
+I based the design of this website on a wireframe PDF supplied by the designer. 
+
+For the purposes of this project, the design has not been fully implemented, rather I have taken what I required from it to meet the criteria of this project for the Code Institute purposes and what I felt was approriate for the HTML/CSS basics module. 
+
+<!-- add in carolines designs here.  -->
+
+## Technologies Used
+
+### Languages
+- HTML
+- CSS
+
+### Frameworks & Tools
+- Git
+- GitHub
+- Gitpod
+- Google Fonts
+- cssgradient.io/
+
+
+## Features
+The three individual pages contain the following features:
+
+### Logo and Navigation Bar
+
+The navigation menu bar appears consistently across the three pages and includes the Home, Services and Contact Us links.
+
+It overlays the header image and has two design types. On the homepage and Contact Us page the font colour for the links are white as the header images on these pages are dark blue/navy. 
+
+On the services page, the header image is white and the links are navy. 
+
+In both cases, the page the user is currently navigating will be orange in the menu nav bar. 
+
+
+<!-- insert image of nav bar -->
+
+### Footer
+The design of the footer is consistent across all pages and comprises to areas:
+- The primary area of real estate which contains a striking, neon lights style image and a call to action button encouraging the user to get in contact with Devhaus to discuss their potential software projects and ideas.
+- The sub footer with contact email (clickable), Phone number (clickable), office location address as well as links to social media, Facebook, Twiter and Linkedin. 
+
+
+<!-- insert footer images -->
+
+### Homepage
+The user landing page creates an immediate imact with a striking header graphic image and a clear, precise statement which delivers the message of what Devhaus does quickly. 
+
+<!-- insert header image here -->
+
+The aim of the homepage overall is to build confidence in the user that Devhaus are a professional, skilled and diverse team of software developers, encompassing the user's full journey from idea inception and launch - and everything in between. 
+
+In combination with the striking graphics and colour scheme, the content delivers clear and helpful information. 
+- The homepage shows a hero image and striking text to give an impactful first impression to the site
+
+![hero-text](docs/features/feature-hero-description.jpg)
+
+### About Us
+- Gives a description of the animal shelter and its purpose with images of animals
+- Video to show volunteers
+- The page is fully responsive and changes layout on smaller screens
+- User stories covered: 3, 11
+
+![About Us](docs/features/feature-about-us.jpg)
+
+### Our Animals
+- Features all currently available animals for adoption with image, name and age
+- Features a page navigation at the top for cats and dogs. This will be best utilised for the user when there is a large number of animals available
+- The page is fully responsive and changes layout on smaller screens
+- User stories covered: 2, 6, 10
+
+![Reviews](docs/features/feature-animals.jpg)
+
+### Fundraising
+- Features a list of all upcoming fundraising activies including month, event name, full date and description
+- The page is fully responsive and changes layout on smaller screens
+- User stories covered: 4, 7, 9
+
+### Contact Form
+- A way for users to enquire about animals
+- User stories covered: 5, 8, 12
+
+![Contact Form](docs/features/feature-contact-form.jpg)
+
+### Map and address
+- Shows the Animal Shelter's address
+- Shows the Animal Shelter's location on an embeded Google Map
+- Fully responsive and changes layout on smaller screens
+- User stories covered: 1, 8, 13
+
+![Map](docs/features/feature-address-map.jpg)
+
+## Development 
+
+### Building and Maintaining
+
+GitHub was used as version control software to maintain, upload and share code with other developers.
+
+GitPod was used to write the code.
+
+### Commits
+
+I kept track of updates by using commits in Git.  The terminal commands for these were:
+
+* git add .
+* git commit -m "Description of change"
+* git push
+
+### Deployment
+
+The website was deployed to GitHub Pages.
+
+To complete this action I completed the following process:
+
+1. Navigated to my site repository
+
+    https://github.com/kkerswell/CI_PP1_AnimalCharity
+
+2. Clicked on "Settings" within the top navigation area
+
+<details><summary>Picture</summary>
+<img src="docs/development/github-deploy-1.png">
+</details><br>
+
+3. Clicked on "Pages" within the side navigation area
+
+<details><summary>Picture</summary>
+<img src="docs/development/github-deploy-2.png">
+</details><br>
+
+4. Clicked the dropdown box under "Source" and choose "main"
+
+<details><summary>Picture</summary>
+<img src="docs/development/github-deploy-3.png">
+</details><br>
+
+5. Clicked on the "Save" button
+
+<details><summary>Picture</summary>
+<img src="docs/development/github-deploy-4.png">
+</details><br>
+
+6. Once saved, the url is then provided
+
+<details><summary>Picture</summary>
+<img src="docs/development/github-deploy-5.png">
+</details><br>
+
+### Cloning
+
+1. Navigate to repo: https://github.com/kkerswell/CI_PP1_AnimalCharity
+2. Click on the 'Code' button
+3. Copy the repository url
+4. Navigate to your personal GitHub page
+5. Click on the 'Repositories' link at the top of the page
+6. Click on the 'New' button
+7. Click on 'Import a repository' at the top of the page
+8. Pase the repository url from above
+9. Name your new repository
+10. Click 'Begin Import'
+
+## Testing
+
+### HTML Validation
+
+https://validator.w3.org/ was used to validate HTML.
+
+#### index.html
+
+<details><summary>Picture</summary>
+<img src="docs/validation/index.png">
+</details><br>
+
+#### about.html
+
+<details><summary>Picture</summary>
+<img src="docs/validation/about.png">
+</details><br>
+
+
 
 ### Fonts
-- Create a modern look with soft lines
-- Final font chosen was Montserrat Alternates by Google Fonts
-- Source: https://fonts.google.com/specimen/Montserrat+Alternates?query=Montserrat+Alternates
+
+The font used for the website is Quicksand. 
+
+It is a very ledgible san serif font with rounded terminals and it is based on geometric shapes. As such, it compliments the modern and edgy look and feel of the design created for the website. 
+
+- Source: https://fonts.google.com/specimen/Quicksand
 
 
 ## index.html
