@@ -43,7 +43,7 @@
 
 
 ## About
-Devhaus is a software development company based in Gorey Co. Wexford. It was founded in 2013 and directed by Joanne O'Grady and David Bolger. Our business model focuses on being client centered and producing robust software solutions that work well for our client's businesses. 
+Devhaus is a software development company based in Gorey, Co. Wexford. It was founded in 2013 and is directed by Joanne O'Grady and David Bolger. Our business model focuses on being client centered and producing robust software solutions that work well for our client's businesses. 
 
 We pride ourselves on building positive, long standing relationships with our clients many of whom we continue to work with after many years together. 
 
@@ -55,31 +55,31 @@ This shared trust allows us to build the hardworking, complex, useful software t
 
 ## Project Goals
 ### User Goals
-The aim of this webiste is to provide the user with information about the software development company, Devhaus, that is clear and easy to access. The user will learn about the company's location, capabilities and service offering. They will be able to review projects that have been developed by Devhaus by clicking on the relevant links on the home page. 
+The aim of this webiste is to provide the user with information about the software development company, Devhaus, that is clear and easy to access. The user will learn about the company's capabilities, service offering and location. They will be able to review projects that have been developed by Devhaus by clicking on the relevant links on the home page. 
 
 The user will easily be able to contact Devhaus via the Contact Us form.
 
 ### Site Owner Goals
-The goal of the site for the owner is to have a professional, clean and informative website that will impress visitors to the site at first glance, will provide them with easy to understand and accessible information on the company's achievements and software services. Overall, the website will act as a shop window, laying out the company's wares. 
+The goal of the site for the owner is to have a professional, clean and informative website that will impress visitors to the site at first glance, will provide them with easy to understand and accessible information on the company's achievements and software services. Overall, the website will act as a shop window, laying out the company's wares and will foster confidence in the user. 
 
-The website is clear and easy to read and the flow of information is logical. Calls to action are placed in the header, main body and footer of the site to assist the user with straightforward navigation. The overall design and content of the site will build confidence in the user and they will gain a comprehensive understanding of the company's business. 
+The website is clear and easy to read and the flow of information is logical. Calls to action are placed in the header, main body and footer of the site to assist the user with straightforward navigation and communication. The overall design and content of the site will build confidence in the user and they will gain a comprehensive understanding of the company's business. 
 
 ## User Experience
 
 ### Target Audience
-The target audience are individuals who want to have software built usually to support or improve their current business processes. They may visit the site via links on a search engine results page, through advertising, social media or from a back link on some online press coverage. They may be at the early idea stage or have more particular requirements already thought out, the website will assure the user that whatever point they're at in their journey, we're here to support them. 
+The target audience are individuals who want to have software built usually to support or improve their current business processes. They may visit the site via links on a search engine results page, through advertising, social media or from a back-link on some online press coverage. They may be at the early idea stage or have more particular requirements that are already thought out - the website will assure the user that whatever point they're at in their journey, we're here to support them in making progress. 
 
 ### User Requrements and Expectations
 
 A clear, informative and easy to navigate interface
-- Links and functionality that work as they would expect
+- Links and functionality that work as they would expect (tested)
 - An easy-to-find means of contacting the company
 - Accessibility
 
 
 
 ## Design
-The current Devhaus website was built a number of years ago and the company has evolved from this point to the stage where the website is not in line with the current ethos and offerings of the company. 
+The current Devhaus website was built a number of years ago and the company has evolved from that point to the stage where the website is now not in line with the current ethos and offerings of the company. 
 
 Working with a Co. Wexford based designer in 2021, a new design was conceived to bring the site up to date and convey a sense of modernity and professionalisim in line with the company's current capabitities. 
 
@@ -91,17 +91,19 @@ The website design is a juxtaposition of strong accent colours with bold graphic
    
 The calls to action stand out and attract the eye, encouraging the user to make a particular user journey to the contact us page. 
 
+![alt_text](assets/images/CTA.JPG "CTA's")
+
 ## Color Scheme
-The color scheme is based around the orange devhaus branding and accented by a midnight blue. This creates the basis of the striking graphic imagery created by the designer for the site. White text is easily readable over these colours. 
+The color scheme is based around the orange devhaus branding and accented by a midnight blue. This creates the basis of the striking graphic imagery imagined by the designer for the site. White text is easily readable over these strong colours. 
 
 The striking colours and graphics grab the users attention, creating an edgy, modern yet slick and professional feel. 
 
-A light blue gradient background is used in two sections to further define particular areas of the website, these are the 'our Process' section and the 'Find us here' section of the Contact Us page. 
+- A light blue gradient background is used in two sections to further define particular areas of the website, these are the 'our Process' section and the 'Find us here' section of the Contact Us page. 
 
-The gradient is subtle and it is used as a visual cue to define these particular areas without distracting the user from the content. 
+The gradient is a subtle visual cue to which adds definition to these particular areas without distracting the user from the content. 
 
 
-<!-- - Final palette colours that were chosen were #F4F9F4 #C4E3CB #8AAE92 #616161 -->
+- Final palette colours that were chosen were #fbfcfd; #022230; #df4739;
 
 ## Fonts
 The font chosen for this website is Quicksand. Quicksand is a very legible, modern font based on geometric shapes with rounded terminals. 
@@ -120,13 +122,16 @@ The image on the Contact Us page shows the location of Devhaus' physical office 
 
 ### Structure
 
-The structure of the website pages are intuitive and familiar and is user friendly and easily navigable. 
+The structure of the website pages are intuitive and familiar and are user friendly and easily navigable. 
 
 On the landing page, the user immediately sees the naviagtion bar and it is clear to see how the site can be used. 
     
 The website consists of three separate pages: 
+
 - A homepage with relevant company information, a high level explanation of our process, links to examples of completed work and calls to action to make an enquiry/contact the team. 
+
 - A Services page outlining the various software development services and support offered.
+
 - A contact page with a contact form, email and postal address and a contact phone number. 
 
 ## Wireframes
@@ -160,6 +165,7 @@ In both cases, the page the user is currently navigating will be highlighted ora
 
 ### Footer
 The design of the footer is consistent across all pages and comprises two areas:
+
 - The primary area of real estate which contains a striking, 'neon lights' style image and a call to action button encouraging the user to get in contact with Devhaus to discuss their potential software projects and ideas.
 
 - The sub footer with contact email (clickable), Phone number (clickable), office location address as well as links to social media, i.e. Facebook, Twiter and Linkedin. 
@@ -174,11 +180,13 @@ The landing page creates an immediate impact with a striking header graphic imag
 
 ![alt_text](assets/images/readme-header-img.JPG "menu design 1")
 
-The aim of the homepage overall is to build confidence in the user that Devhaus are a professional, skilled and diverse team of software developers, encompassing the user's full journey from idea inception and launch - and everything in between. 
+The aim of the homepage overall is to build confidence in the user that Devhaus are a professional, skilled and diverse team of software developers and can handle the user's full journey from idea inception and launch - and everything in between. 
 
 In combination with the striking graphics and colour scheme, the content delivers clear and helpful information. 
 
-An 'Awards' banner has been included in the design, showcasing a project which was the overall winner of the PProject Management Institute Awards in 2021. This again inspires confidence in the user that they are dealing with a professional, reputable company.
+An 'Awards' banner has been included in the design, showcasing a project which was the overall winner of the Project Management Institute National Awards in 2021. There is some brief information about the aplication and a link to the website. 
+
+This again inspires confidence in the user that they are dealing with a professional, reputable high-achieving company.
 
 ![alt_text](assets/images/readme-award-img.JPG "award banner")
 
@@ -217,7 +225,6 @@ This page contains further useful contact information including the physical off
 - CSS
 
 ### Frameworks & Tools
-- Git
 - GitHub
 - Gitpod
 - Google Fonts
@@ -228,9 +235,9 @@ This page contains further useful contact information including the physical off
 
 ### Building and Maintaining
 
-GitHub was used as version control software to maintain, upload and share code with other developers.
+GitHub was used as version control software to maintain, upload and share code.
 
-GitPod was used to write the code.
+GitPod was used to write and update the code.
 
 ### Commits
 
@@ -310,7 +317,7 @@ File not found: https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400,
 
 ### Testing Responsiveness
 
-The website was built mobile first and Chrome developer tools were used throughout the build to test for correct rendering on multiple screen sizes.
+The website was built "mobile first" and Chrome developer tools were used throughout the build to test for correct rendering on multiple screen sizes.
 
 The website is tested for correct rendering and responsiveness and to ensure that all links and functionality work as expected on a number of viewport widths including:
 
@@ -344,7 +351,7 @@ Microsoft Edge examples:
 
 **Mentor:** My Code Institute Mentor, Precious Ijege for his direction throught the buid of the project
 
-**The Code Institute Slack Community:** who provided solutions to all my many issues!
+**The Code Institute Slack Community:** who provided solutions to my many issues!
 
 
 ## Contact
