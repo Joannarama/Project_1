@@ -209,7 +209,7 @@ The Technology Stack section of the Services Page describes the specialised rang
 
 ### Contact us
 
-![alt_text](assets/images/readme-contact-form.JPG "Contact page")
+![alt_text](assets/images/contact-us-form.JPG "Contact page")
 
 The contact page is engaging with a vivid background header image and a clear, easy to read form to contact the company.
 
