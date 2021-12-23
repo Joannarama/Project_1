@@ -329,6 +329,25 @@ and on the following browsers:
 Here are some screenshots of the the testing session in Safari as an example:
 ![alt_text](assets/images/safari-responsive.JPG "safari testing")
 
+Firefox testing examples:
+![alt_text](assets/images/firefox-viewports.JPG "firefox testing")
+
+Microsoft Edge examples:
+![alt_text](assets/images/edge-responsive.JPG "microsoft edge testing")
+
+
+
+
 ## Credits
 
-## Acknowledgements
+**Design:** Credit due to Caroline Walsh at The Design Girls in Wexford who produced the PSD's on which this submisison is based.
+
+**Mentor:** My Code Institute Mentor, Precious Ijege for his direction throught the buid of the project
+
+**The Code Institute Slack Community:** who provided solutions to all my many issues!
+
+
+## Contact
+**Me:** joanne@devhaus.ie
+
+### Thank You!
