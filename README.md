@@ -14,24 +14,20 @@
     4. [Images and Video](#images-and-video)
     5. [Structure](#structure)
     6. [Wireframes](#wireframes)
-4. [Technologies Used](#technologies-used)
+5. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
     2. [Frameworks & Tools](#frameworks--tools)
-5. [Features](#features)
+6. [Features](#features)
     1. [Logo and Navigation Bar](#logo-and-navigation-bar)
     2. [Footer](#footer)
     3. [Homepage](#homepage)
-    4. [About Us](#about-us)
-    5. [Our Animals](#our-animals)
-    6. [Fundraising](#fundraising)
-    7. [Contact Form](#contact-form)
-    8. [Map and address](#map-and-address)
-6. [Development](#development)
+    
+7. [Development](#development)
     1. [Building and Maintaining](#building-and-maintaining)
     2. [Commits](#commits)
     3. [Deployment](#deployment)
     4. [Cloning](#cloning)
-7. [Testing](#testing)
+8. [Testing](#testing)
     1. [HTML Validation](#html-validation)
     2. [CSS Validation](#css-validation)
     3. [Accessibility](#accessibility)
@@ -329,6 +325,6 @@ and on the following browsers:
 
 Here are some screenshots of the webiste on the various viewport widths:
 
-![alt_text](assets/images/import-widths.JPG "Find us here")
+![alt_text](assets/images/safari-responsive.JPG "safari testing")
 
 
