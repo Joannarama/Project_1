@@ -1,15 +1,15 @@
 
 
-1. [Project Goals](#project-goals)
+1. [About this website](#About)
+2. [Goals](#project-goals)
     1. [User Goals](#user-goals)
     2. [Site Owner Goals](#site-owner-goals)
-2. [User Experience](#user-experience)
+3. [User Experience](#user-experience)
     1. [Target Audience](#target-audience)
     2. [User Requrements and Expectations](#user-requrements-and-expectations)
-    3. [User Stories](#user-stories)
-3. [Design](#Design)
+4. [Design](#Design)
     1. [Design Choices](#design-choices)
-    2. [Colour Scheme](#colour-scheme)
+    2. [Color Scheme](#color-scheme)
     3. [Fonts](#fonts)
     4. [Images and Video](#images-and-video)
     5. [Structure](#structure)
@@ -42,6 +42,14 @@
 8. [Bugs](#Bugs)
 9. [Credits](#credits)
 10. [Acknowledgements](#acknowledgements)
+
+
+## About
+Devhaus is a software development company based in Gorey Co. Wexford. It was founded in 2013 and directed by Joanne O'Grady and David Bolger. Our business model focuses on being client centered and producing robust software solutions that work well for our client's businesses. 
+
+We pride ourselves on building positive, long standing relationships with our clients many of whom we continue to work with after many years together. 
+
+This shared trust allows us to build the hardworking, complex, useful software that is our passion. 
 
 ## Project Goals
 
@@ -77,13 +85,13 @@ Working with a Co. Wexford based designer in 2021, a new design was conceived to
 
 ### Design Choices
 
-<!-- ![color scheme](readme-color-white-space.PNG)  -->
-# Dynamic color scheme juxtaposed with white space for clarity
+![alt_text](assets/images/readme-color-white-space.PNG "design elements")
 
 The website design is a juxtaposition of strong accent colours with bold graphics based on the Devhaus branding and the use of white space which gives structure and clarity ensuring the content is easy to navigate, read and access. 
    
 The calls to action stand out and attract the eye, encouraging the user to make a particular user journey to the contact us page. 
 
+## Color Scheme
 The color scheme is based around the orange devhaus branding and accented by a midnight blue. This creates the basis of the striking graphic imagery created by the designer for the site. White text is easily readable over these colours. 
 
 The striking colours and graphics grab the users attention, creating an edgy, modern yet slick and professional feel. 
@@ -95,12 +103,20 @@ The gradient is subtle and it is used as a visual cue to define these particular
 
 <!-- - Final palette colours that were chosen were #F4F9F4 #C4E3CB #8AAE92 #616161 -->
 
+## Fonts
+The font chosen for this website is Quicksand. Quicksand is a very legible, modern font based on geometric shapes with rounded terminals. 
+
+The font reflects the modern, edgy look and feel that the website aims to deliver. 
+
+![alt_text](assets/images/devhaus-font.JPG "Quicksand fonts")
 
 ### Images 
 
 The image on the Contact Us page shows the location of Devhaus' physical office in Gorey, Co. Wexford and this image is owned by the developer. 
 
-<!-- insert image of Gorey-Main-Street -->
+![alt_text](assets/images/gorey-main-street.jpg "Gorey Office")
+
+
 
 ### Structure
 
@@ -120,6 +136,80 @@ For the purposes of this project, the design has not been fully implemented, rat
 
 <!-- add in carolines designs here.  -->
 
+
+## Features
+The three individual pages contain the following features:
+
+### Logo and Navigation Bar
+
+The navigation menu bar appears consistently across the three pages and includes the Home, Services and Contact Us links.
+
+
+It overlays the header image and has two design types. 
+
+On the homepage and Contact Us page the font colour for the links are white as the header images on these pages are dark blue/navy. 
+![alt_text](assets/images/nav-bar-dark.JPG "menu design 1")
+
+
+
+On the services page, the header image is white and the links are navy. 
+![alt_text](assets/images/nav-bar-light.JPG "menu design 2")
+
+In both cases, the page the user is currently navigating will be highlighted orange in the menu nav bar. 
+
+
+### Footer
+The design of the footer is consistent across all pages and comprises two areas:
+- The primary area of real estate which contains a striking, 'neon lights' style image and a call to action button encouraging the user to get in contact with Devhaus to discuss their potential software projects and ideas.
+
+- The sub footer with contact email (clickable), Phone number (clickable), office location address as well as links to social media, i.e. Facebook, Twiter and Linkedin. 
+
+
+![alt_text](assets/images/readme-footer-img.JPG "footer design")
+
+
+
+### Homepage
+The landing page creates an immediate impact with a striking header graphic image and a clear, precise statement which delivers the message of what Devhaus does quickly. 
+
+![alt_text](assets/images/readme-header-img.JPG "menu design 1")
+
+The aim of the homepage overall is to build confidence in the user that Devhaus are a professional, skilled and diverse team of software developers, encompassing the user's full journey from idea inception and launch - and everything in between. 
+
+In combination with the striking graphics and colour scheme, the content delivers clear and helpful information. 
+
+An 'Awards' banner has been included in the design, showcasing a project which was the overall winner of the PProject Management Institute Awards in 2021. This again inspires confidence in the user that they are dealing with a professional, reputable company.
+
+![alt_text](assets/images/readme-award-img.JPG "award banner")
+
+
+### Services page
+
+![alt_text](assets/images/readme-services-img.JPG "Services")
+
+The Services page is a cleanly designed page combining graphic images and text on a white background creating an easy to read program of services offered by Devhaus. 
+
+The header text statement sums up our mission: *Custom software solutions to streamline your business operations*
+
+The subsequent paragraphs outline the software services available to potential clients. 
+
+The Technology Stack section of the Services Page describes the specialised range of technologies used by our team to create custom software. 
+
+
+
+
+
+### Contact us
+
+![alt_text](assets/images/readme-contact-form.JPG "Contact page")
+
+The contact page is engaging with a vivid background header image and a clear, easy to read form to contact the company.
+
+This page contains further useful contact information including the physical office location, contact email address, support email address for current clients and a contact phone number. 
+
+
+![alt_text](assets/images/readme-find-us-here.JPG "Find us here")
+
 ## Technologies Used
 
 ### Languages
@@ -133,78 +223,8 @@ For the purposes of this project, the design has not been fully implemented, rat
 - Google Fonts
 - cssgradient.io/
 
-
-## Features
-The three individual pages contain the following features:
-
-### Logo and Navigation Bar
-
-The navigation menu bar appears consistently across the three pages and includes the Home, Services and Contact Us links.
-
-<!-- <!nav-bar- dark--  --> -->
-It overlays the header image and has two design types. On the homepage and Contact Us page the font colour for the links are white as the header images on these pages are dark blue/navy. 
-
-<!-- nav-bar-light -->
-On the services page, the header image is white and the links are navy. 
-
-In both cases, the page the user is currently navigating will be highlighted orange in the menu nav bar. 
-
-
-
-### Footer
-The design of the footer is consistent across all pages and comprises two areas:
-- The primary area of real estate which contains a striking, 'neon lights' style image and a call to action button encouraging the user to get in contact with Devhaus to discuss their potential software projects and ideas.
-- The sub footer with contact email (clickable), Phone number (clickable), office location address as well as links to social media, i.e. Facebook, Twiter and Linkedin. 
-
-
-<!-- readme-footer-img -->
-
-### Homepage
-The landing page creates an immediate impact with a striking header graphic image and a clear, precise statement which delivers the message of what Devhaus does quickly. 
-
-<!-- readme-header-img -->
-
-The aim of the homepage overall is to build confidence in the user that Devhaus are a professional, skilled and diverse team of software developers, encompassing the user's full journey from idea inception and launch - and everything in between. 
-
-In combination with the striking graphics and colour scheme, the content delivers clear and helpful information. 
-
-An 'Awards' banner has been included in the design, showcasing a project which was the overall winner of the PProject Management Institute Awards in 2021. This again inspires confidence in the user that they are dealing with a professional, reputable company.
-
-<!-- readme-award-img-->
-
-![hero-text](docs/features/feature-hero-description.jpg)
-
-### Services page
-
-<!-- readme-services-img -->
-The Services page is a cleanly designed page combining graphic images and text on a white background creating an easy to read program of services offered by Devhaus. 
-
-The header text statement sums up our mission: *Custom software solutions to streamline your business operations*
-
-The subsequent paragraphs outline the software services available to potential clients. 
-
-The Technology Stack section describes the specialised range of technologies used by our team to create custom software. 
-
-<!-- readme-tech-stack -->
-
-![About Us](docs/features/feature-about-us.jpg)
-
-### Contact us
-
-<!-- readme-contact-form -->
-The contact page is engaging with a vivid background header image and a clear, easy to read form to contact the company.
-
-This page contains further useful contact information including the physical office location, contact email address, support email address for current clients and a contact phone number. 
-
-This section also includes social media links to Facebook Twitter and Linkedin. 
-- Features all currently available animals for adoption with image, name and age
-- Features a page navigation at the top for cats and dogs. This will be best utilised for the user when there is a large number of animals available
-- The page is fully responsive and changes layout on smaller screens
-- User stories covered: 2, 6, 10
-
-<!-- readme-find-us-here  -->
-
 ## Development 
+
 
 ### Building and Maintaining
 
@@ -253,6 +273,8 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 
 ### HTML Validation
 
+The code for this website was validated using W3 validatiors for HTML and CSS. The following issues were identified and fixes applied as per the solutions. 
+
 https://validator.w3.org/ was used to validate HTML.
 
 #### index.html
@@ -262,30 +284,47 @@ https://validator.w3.org/ was used to validate HTML.
 **Error:** An img element must have an alt attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
 **Solution:** alt attribute added to the image to resolve this error. 
 
-Error: Attribute alt not allowed on element a at this point.
-Solution: I removed the alt attribute which caused the error.
+**Error:** Attribute alt not allowed on element a at this point.
+**Solution:** I removed the alt attribute which caused the error.
 
-Error: No p element in scope but a p end tag seen.
-Solution: I had placed a h tag withing the p tag. This caused the error and removing the p tag resolved the issue. 
+**Error:** No p element in scope but a p end tag seen.
+**Solution:** I had placed a h tag withing the p tag. This caused the error and removing the p tag resolved the issue. 
 
 ## services.html
-Error: An img element must have an alt attribute, except under certain conditions.
-Solution: alt attribute added to the image to resolve this error.
+**Error:** An img element must have an alt attribute, except under certain conditions.
+**Solution:** alt attribute added to the image to resolve this error.
 
-Error: No p element in scope but a p end tag seen.
-Solution: I had placed a h tag withing the p tag. This caused the error and removing the p tag resolved the issue. 
+**Error:** No p element in scope but a p end tag seen.
+**Solution:** I had placed a h tag withing the p tag. This caused the error and removing the p tag resolved the issue. 
 
 ## contact.html
 No errors
 
-## CSS
-1 Error found:
+### CSS validation
+
+https://jigsaw.w3.org/css-validator/ was uset to validate CSS
+
+**1 Error found:**
 File not found: https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400,600&display=swap: Bad Request
-solution: I identified an error in the @import code which when corrected, imported the google font 'Quicksand' correctly
+**Solution:** I identified an error in the @import code which when corrected, imported the google font 'Quicksand' correctly
 
 
-###Teating
+### Testing
 
+
+
+The website is tested for correct rendering and responsiveness and to ensure that all links and functionality work as expected on a number of viewport widths including
+
+- 320px
+- 375px
+- 768px
+- 1140px
+
+and on the following browsers:
+- Chrome
+- Safari
+- Firefox
+- Microsoft Edge
 
 
 
