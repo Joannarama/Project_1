@@ -593,6 +593,7 @@ label {
     margin-bottom: 8px;
 }
 
+textarea,
 input[type=text],
 input[type=email] {
     border: 1px solid #022230;
@@ -602,6 +603,10 @@ input[type=email] {
     box-sizing: border-box;
     font-family: "Quicksand", sans-serif;
     font-size: 16px;
+}
+
+textarea {
+    height:  66px;
 }
 
 
@@ -838,7 +843,7 @@ input[type=submit] {
     }
 
     .contact-header {
-        max-height: 550px;
+        max-height: 650px;
         margin-bottom: 80px;
     }
 
