@@ -45,7 +45,7 @@
 
 ## Project Goals
 
-<!-- viewports.jpg-->
+![alt_text](assets/images/viewports.JPG  "responsive views")
 ### User Goals
 The aim of this webiste is to provide the user with information about the software development company, Devhaus, that is clear and easy to access. The user will learn about the company's location, capabilities and service offering. They will be able to review projects that have been developed by Devhaus by clicking on the relevant links on the home page. 
 
