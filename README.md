@@ -11,16 +11,19 @@
     1. [Design Choices](#design-choices)
     2. [Color Scheme](#color-scheme)
     3. [Fonts](#fonts)
-    4. [Images and Video](#images-and-video)
+    4. [Images and Video](#images)
     5. [Structure](#structure)
     6. [Wireframes](#wireframes)
-5. [Technologies Used](#technologies-used)
-    1. [Languages](#languages)
-    2. [Frameworks & Tools](#frameworks--tools)
-6. [Features](#features)
+5. [Features](#features)
     1. [Logo and Navigation Bar](#logo-and-navigation-bar)
     2. [Footer](#footer)
     3. [Homepage](#homepage)
+    4. [Services Page](#services page)
+    5. [Contact Us](#contact-us)
+6. [Technologies Used](#technologies-used)
+    1. [Languages](#languages)
+    2. [Frameworks & Tools](#frameworks--tools)
+
     
 7. [Development](#development)
     1. [Building and Maintaining](#building-and-maintaining)
@@ -29,15 +32,14 @@
     4. [Cloning](#cloning)
 8. [Testing](#testing)
     1. [HTML Validation](#html-validation)
+    2. [HTML Validation](#index.html)
+    3. [Services Validation](#services.html)
+    4. [Contact Us Validation](#contact.html)
     2. [CSS Validation](#css-validation)
-    3. [Accessibility](#accessibility)
-    4. [Performance](#performance)
-    5. [Responsiveness](#responsiveness)
-    6. [Browser compatibility](#browser-compatability)
-    7. [Testing user stories](#testing-user-stories)
-8. [Bugs](#Bugs)
-9. [Credits](#credits)
-10. [Acknowledgements](#acknowledgements)
+9. [Testing Responsiveness](#testing-responsiveness)
+    
+10. [Credits](#credits)
+11. [Acknowledgements](#acknowledgements)
 
 
 ## About
@@ -47,9 +49,11 @@ We pride ourselves on building positive, long standing relationships with our cl
 
 This shared trust allows us to build the hardworking, complex, useful software that is our passion. 
 
-## Project Goals
+
 
 ![alt_text](assets/images/viewports.JPG  "responsive views")
+
+## Project Goals
 ### User Goals
 The aim of this webiste is to provide the user with information about the software development company, Devhaus, that is clear and easy to access. The user will learn about the company's location, capabilities and service offering. They will be able to review projects that have been developed by Devhaus by clicking on the relevant links on the home page. 
 
@@ -126,11 +130,11 @@ The website consists of three separate pages:
 - A contact page with a contact form, email and postal address and a contact phone number. 
 
 ## Wireframes
-I based the design of this website on a wireframe PSD supplied by the designer. 
+I based the design of this website on a wireframe [PSD supplied by the designer](assets/images/01-devhaus-final.psd). 
 
 For the purposes of this project, the design has not been fully implemented, rather I have taken what I required from it to meet the criteria of this project for the Code Institute purposes and what I felt would demonstrate my competency for the HTML/CSS basics module. 
 
-<!-- add in carolines designs here.  -->
+
 
 
 ## Features
@@ -246,22 +250,21 @@ The following steps were taken to deploy the website to GitHub Pages:
 The site was deployed to GitHub pages. The steps to deploy a site are as follows:
   1. In the GitHub repository, navigate to the **Settings** tab.
   2. Once in Settings, navigate to the **Pages** tab on the left hand side.
-  3. Under **Source**, select the branch to **master**, then click **save**.
-  4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.image
+  3. Under **Source**, select the branch to **main**, then click **save**.
+  4. When step 3 was configured, every time I comitted and pushed code, github automatically deployed my updates to GitHub Pages. 
 
-  <!-- readme-deployment -->
-
+  ![alt_text](assets/images/readme-deployment.JPG "Deployment")
 
 ### Cloning
 
-1. Navigate to repo: https://github.com/kkerswell/CI_PP1_AnimalCharity
+1. Navigate to repo: https://github.com/Joannarama/Project_1
 2. Click on the 'Code' button
 3. Copy the repository url
 4. Navigate to your personal GitHub page
 5. Click on the 'Repositories' link at the top of the page
 6. Click on the 'New' button
 7. Click on 'Import a repository' at the top of the page
-8. Pase the repository url from above
+8. Paste the repository url from above
 9. Name your new repository
 10. Click 'Begin Import'
 
@@ -305,7 +308,7 @@ File not found: https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400,
 **Solution:** I identified an error in the @import code which when corrected, imported the google font 'Quicksand' correctly
 
 
-### Testing
+### Testing Responsiveness
 
 The website was built mobile first and Chrome developer tools were used throughout the build to test for correct rendering on multiple screen sizes.
 
@@ -323,8 +326,9 @@ and on the following browsers:
 - Microsoft Edge
 
 
-Here are some screenshots of the webiste on the various viewport widths:
-
+Here are some screenshots of the the testing session in Safari as an example:
 ![alt_text](assets/images/safari-responsive.JPG "safari testing")
 
+## Credits
 
+## Acknowledgements
