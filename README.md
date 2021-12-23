@@ -311,9 +311,9 @@ File not found: https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400,
 
 ### Testing
 
+The website was built mobile first and Chrome developer tools were used throughout the build to test for correct rendering on multiple screen sizes.
 
-
-The website is tested for correct rendering and responsiveness and to ensure that all links and functionality work as expected on a number of viewport widths including
+The website is tested for correct rendering and responsiveness and to ensure that all links and functionality work as expected on a number of viewport widths including:
 
 - 320px
 - 375px
@@ -326,5 +326,9 @@ and on the following browsers:
 - Firefox
 - Microsoft Edge
 
+
+Here are some screenshots of the webiste on the various viewport widths:
+
+![alt_text](assets/images/import-widths.JPG "Find us here")
 
 
